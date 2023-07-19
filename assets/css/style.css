@@ -21,11 +21,11 @@ p,.paragraph {
 }
 
 a {
-    color: #E8505B
+    color: orangered
 }
 
 a:hover {
-    color: #E8505B
+    color: orangered
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -61,6 +61,10 @@ h5,.h5 {
 
 h6,.h6 {
     font-size: 16px
+}
+
+code {
+    color: orange;
 }
 
 .btn {
@@ -127,7 +131,7 @@ body {
 }
 
 ::selection {
-    background: #ee7d85;
+    background: orange;
     color: #fff
 }
 
@@ -594,7 +598,7 @@ textarea.form-control {
     line-height: 45px;
     text-align: center;
     display: block;
-    color: #E8505B
+    color: orange
 }
 
 .social-icon i {
